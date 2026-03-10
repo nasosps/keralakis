@@ -240,7 +240,7 @@ a {
 }
 
 .hero-logo {
-    height: 80px;
+    height: 180px;
     margin-bottom: 1.5rem;
     filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.5));
 }
