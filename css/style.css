@@ -530,6 +530,12 @@ footer .small {
     .section-title {
         font-size: 2rem;
         margin-bottom: 2.5rem;
+        text-align: center;
+    }
+
+    .section-title::after {
+        left: 50%;
+        transform: translateX(-50%);
     }
 
     .contact-card {
